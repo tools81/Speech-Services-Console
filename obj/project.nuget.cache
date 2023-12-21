@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xe9EGmFLP0cIdN5qeNqG7YZvv0MBcs+wkiTj3o4OHXTNmI9PDOEPMKf42rhTrra+cxVU+TIy7N3tELckkRd2fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toole\\OneDrive\\Source\\Speech Services Console\\Speech Services Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toole\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.33.0\\microsoft.cognitiveservices.speech.1.33.0.nupkg.sha512",
+    "C:\\Users\\toole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
